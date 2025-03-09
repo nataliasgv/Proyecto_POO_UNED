@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.target=Administration
-comment1.params=address\ documentation\ log\ accountant\ billing\ humanResources\ supporters
-comment1.target=Administration(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.util.LinkedList,\ java.util.LinkedList)
-numComments=2
