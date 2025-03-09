@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=UciRoom
+comment1.params=room\ patient\ supervisor
+comment1.target=UciRoom(int,\ src.uned.poo.hospital.patients.Patient,\ src.uned.poo.hospital.personal.Nurse)
+comment2.params=
+comment2.target=int\ getRoom()
+comment3.params=room
+comment3.target=void\ setRoom(int)
+comment4.params=
+comment4.target=src.uned.poo.hospital.patients.Patient\ getPatient()
+comment5.params=patient
+comment5.target=void\ setPatient(src.uned.poo.hospital.patients.Patient)
+comment6.params=
+comment6.target=src.uned.poo.hospital.personal.Nurse\ getSupervisor()
+comment7.params=supervisor
+comment7.target=void\ setSupervisor(src.uned.poo.hospital.personal.Nurse)
+comment8.params=obj
+comment8.target=boolean\ equals(java.lang.Object)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

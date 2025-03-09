@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cafe
+comment1.params=tables
+comment1.target=Cafe(int)
+comment2.params=
+comment2.target=int\ getTables()
+comment3.params=tables
+comment3.target=void\ setTables(int)
+comment4.params=
+comment4.target=int\ getClients()
+comment5.params=clients
+comment5.target=void\ setClients(int)
+comment6.params=
+comment6.target=boolean\ addClient()
+comment7.params=
+comment7.target=boolean\ removeClient()
+numComments=8
